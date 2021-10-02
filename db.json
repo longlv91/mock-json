@@ -63,5 +63,87 @@
         ]
       }
     ]
+  },
+  "results": {
+    "TotalTime": 39,
+    "CountTime": 0,
+    "QueryTime": 7,
+    "Signature": null,
+    "Index": "sitecore_sxa_web_index",
+    "Count": 9,
+    "Results": [
+      {
+        "Id": "afa54720-fbf3-418e-a2f0-a592995ccf04",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 2",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-2",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      },
+      {
+        "Id": "cb539576-5b01-457f-9090-98f135b093ba",
+        "Language": "vi-VN",
+        "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
+        "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
+        "Name": null,
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+      }
+    ]
   }
 }
