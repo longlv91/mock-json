@@ -15,5 +15,53 @@
       "firstName": "Larry",
       "lastName": "John"
     }
-  ]
+  ],
+  "facets": {
+    "TotalTime": 55,
+    "QueryTime": 27,
+    "Signature": null,
+    "Index": "sitecore_sxa_web_index",
+    "Facets": [
+      {
+        "Key": "Type",
+        "Name": "Type",
+        "Values": [
+          {
+            "Name": "Latest",
+            "Count": 1
+          },
+          {
+            "Name": "Highlight",
+            "Count": 1
+          },
+          {
+            "Name": "Most view",
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Key": "Category",
+        "Name": "Category",
+        "Values": [
+          {
+            "Name": "All",
+            "Count": 1
+          },
+          {
+            "Name": "News",
+            "Count": 1
+          },
+          {
+            "Name": "Featured news",
+            "Count": 1
+          },
+          {
+            "Name": "Investor news",
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  }
 }
