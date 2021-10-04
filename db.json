@@ -70,7 +70,7 @@
     "QueryTime": 7,
     "Signature": null,
     "Index": "sitecore_sxa_web_index",
-    "Count": 9,
+    "Count": 90,
     "Results": [
       {
         "Id": "afa54720-fbf3-418e-a2f0-a592995ccf04",
@@ -78,7 +78,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 2",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-2",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"https://fpt.com.vn/vi/tin-tuc/chi-tiet/trung-uong-doan-dong-hanh-cung-fpt-bao-tro-cham-soc-tre-em-mat-cha-me-vi-covid\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">Trung ương Đoàn đồng hành cùng FPT bảo trợ, chăm sóc trẻ em mất cha mẹ vì Covid</div><div class=\"news-card-meta-description\">03 tháng 10, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -86,7 +86,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"https://fpt.com.vn/vi/tin-tuc/chi-tiet/fpt-chung-tay-ho-tro-3-300-em-nho-den-truong-mua-dich\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT chung tay hỗ trợ 3.300 em nhỏ 'đến trường' mùa dịch</div><div class=\"news-card-meta-description\">29 tháng 9, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -94,7 +94,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"https://fpt.com.vn/vi/tin-tuc/chi-tiet/fpt-ai-dong-hanh-chuyen-doi-so-cung-boston-pharma\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT.AI đồng hành chuyển đổi số cùng Boston Pharma</div><div class=\"news-card-meta-description\">28 tháng 9, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -102,7 +102,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT tiếp tục trao đi hơn 1600 đơn vị máu cứu người tại tâm dịch TP.HCM</div><div class=\"news-card-meta-description\">28 tháng 9, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -110,7 +110,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">Dịch vụ điện toán đám mây của FPT Smart Cloud được chứng nhận của VMware</div><div class=\"news-card-meta-description\">27 tháng 9, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -118,7 +118,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT tổ chức chương trình Vaccine cho doanh nghiệp – Từ sống sót đến thịnh vượng</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -126,7 +126,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT và McKinsey Việt Nam hợp tác thúc đẩy chuyển đổi số tại Việt Nam</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
@@ -134,7 +134,7 @@
         "Path": "/sitecore/content/FPT Corporation/FPT/Home/News and Events/News/2021/09/16/News Detail 1",
         "Url": "/vi-vn/tin-tuc-va-su-kien/tin-tuc/2021/09/16/news-detail-1",
         "Name": null,
-        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hiến kế chuyển đổi số ngành Tài chính</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
+        "Html": "<div class=\"news-card\" data-url=\"http://example.com\"><div class=\"news-cover\"><img src=\"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80\" alt=\"\" /></div><div class=\"news-card-meta\"><div class=\"news-card-meta-title\">FPT hỗ trợ máy tính, máy in tại bệnh viện dã chiến lớn nhất Hà Nội</div><div class=\"news-card-meta-description\">26 tháng 3, 2021</div></div></div>"
       },
       {
         "Id": "cb539576-5b01-457f-9090-98f135b093ba",
